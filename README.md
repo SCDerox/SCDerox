@@ -1,4 +1,11 @@
 ### Hi there 👋
+🌱 I’m currently learning Algorithms on [Coursera](https://www.coursera.org/learn/algorithms-part1/)
+
+📫 You can reach me on Discord: SCDerox#4645
+
+🔭 I’m currently working on a lot of projects (;
+
+⚡ Don't forget to check out my [website](https://scderox.de)
 
 <!--
 **SCDerox/SCDerox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
