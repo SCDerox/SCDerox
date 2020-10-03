@@ -7,6 +7,9 @@
 
 ⚡ Don't forget to check out my [website](https://scderox.de)
 
+**Why are a lot of your repos private?**
+Because I think my code is worse, so I don't like it if it's public and everyone sees it under my name ):
+
 <!--
 **SCDerox/SCDerox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
