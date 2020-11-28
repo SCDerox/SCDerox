@@ -2,7 +2,7 @@
 My name is Simon, I am from Germany. I enjoy working on new projects. You can find some of them below!
 
 ### Some stats
-[![SCDerox's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![SCDerox's github stats](https://github-readme-stats.vercel.app/api?username=scderox&count_private=true&show_icons=true&theme=dark)
 
 ### Wakatime-Stats
 [![SCDerox's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SCDerox&theme=dark&show_icons=true)
