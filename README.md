@@ -1,26 +1,13 @@
-### Hi there 👋
-🌱 I’m currently learning Algorithms on [Coursera](https://www.coursera.org/learn/algorithms-part1/)
+## Hi there 👋
+My name is Simon, I am from Germany. I enjoy working on new projects. You can find some of them below!
 
+### Some stats
+[![SCDerox's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+### Wakatime-Stats
+[![SCDerox's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SCDerox&theme=dark&show_icons=true)
+
+### Contact
 📫 You can reach me on Discord: SCDerox#4645
 
-🔭 I’m currently working on a lot of projects (;
-
-⚡ Don't forget to check out my [website](https://scderox.de)
-
-**Why are a lot of your repos private?**
-Because I think my code is worse, so I don't like it if it's public and everyone sees it under my name ):
-
-<!--
-**SCDerox/SCDerox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Don't forget to check out my [website](https://scderox.de)  (currently only german, but I will translate it soon)
